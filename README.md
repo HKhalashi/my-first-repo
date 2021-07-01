@@ -1,18 +1,25 @@
-# first heading 
-## second heading 
-*italicized word*
-**bold word**
--first 
--second 
--third
-second list :
-1.first
-2.second
-3.third
-code in line 'cout << "hello world"'
-block code :
-'''public int main(){
-return 0;
-}'''
-links :
-[about git](https://github.com)
+# This is a large heading 
+## This is a smaller heading
+And as **imagination** bodies forth,
+the forms of things *unknown*, the poet's pen,
+Turns them to shapes and gives to airy nothing,
+A local *habitation* and a **name** . 
+- THis is 
+- an unordered 
+- list 
+
+
+1. this is 
+2. an ordered 
+3. list 
+
+Here is `some code` in the middle of a sentence.
+```
+this is 
+a block 
+of code 
+```
+
+Here is how you can make [a link] (https://www.wikipedia.org/).
+![This is an image.]
+(https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
